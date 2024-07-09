@@ -1,4 +1,5 @@
 game:GetService("StarterGui"):SetCore("SendNotification",{
 	Title = "niro executor", -- Required
 	Text = "Thank you for using us. Don't get caught 😉", -- Required
+	Icon = "rbxassetid://1234567890" -- Optional
 })
